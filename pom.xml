@@ -15,7 +15,7 @@
     </modules>
 
     <properties>
-        <fasterxml.jackson.version>2.9.9</fasterxml.jackson.version>
+        <fasterxml.jackson.version>2.12.6.1</fasterxml.jackson.version>
     </properties>
 
     <dependencyManagement>
